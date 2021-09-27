@@ -1,5 +1,3 @@
-import Backdrop from "./components/Backdrop";
-import Modal from "./components/Modal";
 import Todo from "./components/todo";
 
 function App() {
@@ -8,8 +6,6 @@ function App() {
       <h1>My Todos</h1>
       <Todo title="react" />
       <Todo title="flutter" />
-      <Modal />
-      <Backdrop />
     </div>
   );
 }
