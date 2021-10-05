@@ -1,5 +1,4 @@
 import MeetupList from "../components/meetups/MeetupList";
-import Card from "../components/ui/Card";
 
 const DUMMY_DATA = [
   {
